@@ -1,0 +1,78 @@
+.container {
+border: 3px solid black;
+width: 406px;
+height: 309px;
+position: absolute;
+}
+.a {
+border: 3px solid black;
+width: 100px;
+height: 20px;
+color: #3498db;
+}
+
+
+select {
+position : absolute;
+bottom: 0%;
+}
+
+.name {
+
+position : absolute;
+left: 3%;
+top:5%;
+}
+
+.idno {
+position: absolute;
+left: 3%;
+top: 20%;
+}
+
+.grade {
+position: absolute;
+left: 3%;
+top: 35%;
+}
+
+.content {
+border: 3px solid black;
+width: 100px;
+height: 20px;
+}
+
+.ncontent {
+position : absolute;
+left: 30%;
+top:5%;
+}
+.idcontent{
+position : absolute;
+left: 30%;
+top: 20%;
+}
+
+.gcontent {
+position : absolute;
+left: 30%;
+top: 35%;
+}
+
+#btn {
+border: 3px solid black;
+width: 10%;
+position: absolute;
+left: 10%;
+top:70%;
+
+}
+select{
+border: 3px solid black;
+width: 100px;
+height: 28px;
+position : absolute;
+left: 30%;
+top: 35%;
+
+}
